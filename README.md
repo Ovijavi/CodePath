@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="http://recordit.co/CzjPhykBax" width=200><br>
+<img src="http://g.recordit.co/qpOOdDtEt0.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
